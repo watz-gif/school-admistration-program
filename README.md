@@ -38,5 +38,5 @@ if __name__=='_main_':
                                    elif condition_check == "no":
                                         condition = False
                 elif choice_check == "no":
-                     print("\nReneter the Values")
+                     print("\nRenter the Values")
                                 
